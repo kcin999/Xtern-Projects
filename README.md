@@ -11,6 +11,10 @@
 		* one big conference or Ted Talk event
 5. Demonstrate your findings using data visualization tool and well written analysis.
 
+## To View Report
+Open up [main.pyynb](main.pyynb) file. 
+
+
 ## Data Files:
 #### Note: I filtered down times from May 15, 2022 to August 13, 2022, the approximate time we would be in Indinaplis
 [address.csv](address.csv)
