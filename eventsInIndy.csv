@@ -1,6 +1,6 @@
 eventName,place,start_date,start_time,end_date,end_time,dayOfWeek,address,typeOfEvent,site
-Centerpoint Trivia Night,Centerpoint Brewing,10/21/2021,19:00,8/11/2022,21:00,Thursday,"1125 E.Brookside Ave. Indianapolis, IN 46202",event,visitIndy
-Working the Musical,The Studio Theater at teh Center for the performing Arts,4/29/2022,19:30,5/20/2022,21:30,Friday,"4 Center Green Carmel, IN 46032",theater,visitIndy
+Centerpoint Trivia Night,Centerpoint Brewing,10/21/2021,19:00,8/11/2022,21:00,Thursday,"1125 E.Brookside Ave., Indianapolis, IN 46202",event,visitIndy
+Working the Musical,The Studio Theater at teh Center for the performing Arts,4/29/2022,19:30,5/20/2022,21:30,Friday,"4 Center Green Carmel, Indianapolis, IN 46032",theater,visitIndy
 Music Moves,Butler University,5/20/2022,,5/22/2022,,,"4600 Sunset Ave., Indianapolis, IN 46208",Musical,visitIndy
 AJR - The OK Orchestra Tour,Ruoff Music Center,5/28/2022,7:30,5/28/2022,,Saturday,"12880 E. 146th St., Noblesville, IN 46060",orchestra,visitIndy
 Indianapolis 500 Mile Race,Indianapolis Motor Speedway,5/29/2022,,5/29/2022,,Sunday,"4790 W. 16th St., Indianapolis, IN 46222",race,visitIndy
@@ -23,5 +23,5 @@ The Paper Dreams of Harry Chin,Indiana Repertory Theatre,4/20/2022,,5/15/2022,,,
 Steel Magnolias,Indiana Repertory Theatre,5/10/2022,,6/5/2022,,,"140 W. Washington St., Indianapolis, IN 46204",theater,visitIndy
 Indiana War Memorial and Museum,Indiana War Memorial and Museum,5/15/2022,9:00,8/13/2021,17:00,,"55 E Michigan St, Indianapolis, IN 46204",museum,downtownIndy
 Barbie™ You Can Be Anything™: The Experience,The Children's Museum of Indianapolis,5/15/2022,10:00,8/13/2021,17:00,,"3000 N Meridian St, Indianapolis, IN 46208",event,downtownIndy
-Circle City Tours,Indianapolis,5/15/2022,10:00,8/13/2021,12:00,,"Indianapolis, Indiana",event,downtownIndy
+Circle City Tours,Indianapolis,5/15/2022,10:00,8/13/2021,12:00,,"200 E Washington St, Indianapolis, Indiana 46208",event,downtownIndy
 ComedySportz,ComedySportz Indianapolis,5/15/2022,19:30,8/13/2021,21:00,Friday/Saturday,"721 Massachusetts Ave, Indianapolis, IN 46204",event,downtownIndy
